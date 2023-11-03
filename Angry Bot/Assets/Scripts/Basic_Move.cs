@@ -4,7 +4,7 @@ using System.Collections;
 public class Basic_Move : MonoBehaviour {
 	
 	public int Speed;
-	
+	// 주석
 	void Update () {
 			
 		if (Input.GetKey (KeyCode.LeftArrow)) {
